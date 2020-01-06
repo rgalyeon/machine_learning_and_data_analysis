@@ -25,7 +25,7 @@ Machine Learning and Data Analysis specialization (6 courses) by Yandex and MIPT
 <a href="https://www.coursera.org/learn/unsupervised-learning/"><img align="left" width="150" height="150" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/51/45def0b0de11e5bc793bb6b305a033/800x800-03.jpg?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF"></a>
 
 * __Описание:__ _В курсе рассматриваются методы поиска структуры в данных: понижение размерности, поиск группы похожих объектов, тематическое моделирование._
-* [Задания (Homework)](/Homework)
+* [Задания (Homework)](/3_Unsupervised_Learning/Homework)
 * [Ноутбуки с лекций (Lecture Notebooks)](/3_Unsupervised_Learning/Resources/Lecture_notebooks)
 * [Конспекты лекций (Lecture Notes)](/3_Unsupervised_Learning/Resources/Lecture_pdf)
 
